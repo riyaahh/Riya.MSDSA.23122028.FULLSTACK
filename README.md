@@ -1,2 +1,2 @@
 NAME|EMAIL|PHONE NUMBER
-RIYA PC|riyapc33@gmail.com|8590791082
+RIYA PC|riya.pc@msds.christuniversity.in|8590791082
